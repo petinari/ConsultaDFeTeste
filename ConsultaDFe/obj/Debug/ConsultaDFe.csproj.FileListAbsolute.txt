@@ -1,0 +1,9 @@
+C:\Users\Petin\Documents\Visual Studio 2017\Projects\ConsultaDFe\ConsultaDFe\ConsultaDFe\bin\Debug\ConsultaDFe.exe.config
+C:\Users\Petin\Documents\Visual Studio 2017\Projects\ConsultaDFe\ConsultaDFe\ConsultaDFe\bin\Debug\ConsultaDFe.exe
+C:\Users\Petin\Documents\Visual Studio 2017\Projects\ConsultaDFe\ConsultaDFe\ConsultaDFe\bin\Debug\ConsultaDFe.pdb
+C:\Users\Petin\Documents\Visual Studio 2017\Projects\ConsultaDFe\ConsultaDFe\ConsultaDFe\obj\Debug\ConsultaDFe.csprojResolveAssemblyReference.cache
+C:\Users\Petin\Documents\Visual Studio 2017\Projects\ConsultaDFe\ConsultaDFe\ConsultaDFe\obj\Debug\ConsultaDFe.Form1.resources
+C:\Users\Petin\Documents\Visual Studio 2017\Projects\ConsultaDFe\ConsultaDFe\ConsultaDFe\obj\Debug\ConsultaDFe.Properties.Resources.resources
+C:\Users\Petin\Documents\Visual Studio 2017\Projects\ConsultaDFe\ConsultaDFe\ConsultaDFe\obj\Debug\ConsultaDFe.csproj.GenerateResource.Cache
+C:\Users\Petin\Documents\Visual Studio 2017\Projects\ConsultaDFe\ConsultaDFe\ConsultaDFe\obj\Debug\ConsultaDFe.exe
+C:\Users\Petin\Documents\Visual Studio 2017\Projects\ConsultaDFe\ConsultaDFe\ConsultaDFe\obj\Debug\ConsultaDFe.pdb
