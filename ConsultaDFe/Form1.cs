@@ -33,9 +33,9 @@ namespace ConsultaDFe
             distDfe.tpAmb = TAmb.Item1;
             distDfe.cUFAutor = TCodUfIBGE.Item50;
             distDfe.ItemElementName = ItemChoiceType.CNPJ;
-            distDfe.Item = "000000000000";
+            distDfe.Item = "000000000000000";
             distDFeIntDistNSU distNSU = new distDFeIntDistNSU();
-            distNSU.ultNSU = "00000000000";
+            distNSU.ultNSU = "00000000000000";
             distDfe.Item1 = distNSU;
             string xmlEnvio = SerializeToString(distDfe);
             var removeq1 = new string[] { ":q1", "q1:" };
